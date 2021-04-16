@@ -40,10 +40,7 @@ const styles = StyleSheet.create({
   errorMessage: {
     fontSize: 16,
     textAlign: "center",
-    borderWidth: 1,
-    marginHorizontal: 110,
-    backgroundColor: "red",
-    borderRadius: 10,
+    color: "red",
   },
 });
 
